@@ -1,2 +1,2 @@
 # rsschool-cv
-https://darchuksergey.github.io/rsschool-cv/cv
+My resume link: https://darchuksergey.github.io/rsschool-cv/
