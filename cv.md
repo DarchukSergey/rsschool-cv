@@ -42,6 +42,7 @@ I specialize in HTML layout design and utilize various software and editors such
 ## Projects
 
 
+### Took part in the development of the financial services website | [mundo.expert](https://mundo.expert/)
 ### Created a personal website for a winery  | [praskoveya.ru](https://praskoveya.ru/)
 ### Developed a website for personalized meal plans | [myhealthyweight](https://myhealthyweight.com.au/)
 
