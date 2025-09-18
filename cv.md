@@ -37,7 +37,26 @@ I specialize in HTML layout design and utilize various software and editors such
 
 ---
 
+##### Code examples
 
+*********
+
+```
+    function count(num1, num2, method) {
+        switch (method) {
+            case "+":
+            return num1 + num2;
+            break;
+            case "-":
+            return num1 - num2;
+            break;
+        } 
+        }
+    count(2, 3, "+");
+
+ ```
+
+---
 
 ## Projects
 
