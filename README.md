@@ -1,2 +1,2 @@
 # rsschool-cv
-repository for rsschool
+https://darchuksergey.github.io/rsschool-cv/cv
