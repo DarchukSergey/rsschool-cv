@@ -1,2 +1,2 @@
 # rsschool-cv
-repository for rsschool
+My resume link: [darchuksergey/rsschool-cv](https://darchuksergey.github.io/rsschool-cv/)
